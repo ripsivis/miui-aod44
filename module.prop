@@ -1,0 +1,7 @@
+id=miui-aod44
+name=Disable Always-on Display Restrictions
+version=v1.0.0
+versionCode=100
+author=ripsivis
+description=Disable Always-on display restrictions of MIUI. telegram: @ripsiviscloud
+updateJson=https://raw.githubusercontent.com/ripsivis/miui-aod44/master/update.json
