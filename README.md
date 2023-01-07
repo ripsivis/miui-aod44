@@ -1,6 +1,6 @@
 ## Disable Always-on Display Restriction
 
-### Inspired by [ianchb's]https://github.com/ianchb/) [MIUI-AOD-Freely](https://github.com/ianchb/MIUI-AOD-Freely/) and [luojiayu09's](https://luojiayu09.github.io/) [miuiaul09](https://luojiayu09.github.io/magisk-module/miuiaul/miuiaul.zip) modules.
+### Inspired by [ianchb's](https://github.com/ianchb/) [MIUI-AOD-Freely](https://github.com/ianchb/MIUI-AOD-Freely/) and [luojiayu09's](https://luojiayu09.github.io/) [miuiaul09](https://luojiayu09.github.io/magisk-module/miuiaul/miuiaul.zip) modules.
 
 - This is a simple module that tries to detect and disable a restrictive value to enable more Always-on Display features for MIUI.
 
