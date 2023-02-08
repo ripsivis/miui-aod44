@@ -9,4 +9,4 @@ for xml in "$DIR0"/*.xml "$DIR1"/*.xml; do
   fi
 done
 
-[ -z $VAR1 ] && echo "- Error: The required value was not found."
+[ -z $VAR1 ] && abort "- Error: The required value was not found."
